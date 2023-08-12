@@ -1,4 +1,4 @@
-package chap01;
+package ex;
 
 class PhoneNumber {
 
